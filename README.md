@@ -63,7 +63,7 @@ upskillcampus/
 | File | Link |
 |------|------|
 | Code | https://github.com/Pradeep-Yadav-6777/upskillcampus/blob/main/AgricultureCropPrediction.py |
-| Report | https://github.com/Pradeep-Yadav-6777/upskillcampus/blob/main/PredictionOfAgricultureCropProductionInIndia_Pradeep_USC_UCT.pdf |
+| Report | https://github.com/Pradeep-Yadav-6777/upskillcampus/raw/main/PredictionOfAgricultureCropProductionInIndia_Pradeep_USC_UCT.pdf |
 
 ---
 
